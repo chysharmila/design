@@ -1,0 +1,168 @@
+.nav{
+	margin-left:700px;
+  padding: 10px;
+}
+.he{
+	color: black;
+}
+
+
+.image3
+{
+
+	width: 1240px;
+
+margin-left: 41px;
+
+height: 343px;
+}
+.center
+{
+  text-align: center;
+}
+.image
+{
+  height: 312px;
+  width: 500px;
+}
+.image1
+{
+  width: 289px;
+  height: 318px;
+}
+.btn1 {
+
+  position: absolute;
+    top: 7%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: orange;
+    color: white;
+    font-size: 10px;
+    padding: 4px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 2px;
+  }
+  .color
+  {
+  	color: orange;
+  }
+
+  .navbar2
+  {
+    background-color: orange;
+    padding: 28px;
+    
+  }
+  .hi
+  {
+    color: #6b6161;
+  }
+
+
+.process
+
+{
+	position: relative;
+	float: left;
+	width: 33.33%;
+	z-index: 0;
+}
+.text-center{
+	text-align: center;
+}
+  .process p {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    display: table;
+    border: 2px solid #fafafa;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    background: #fff;
+    z-index: 1;
+    font-weight: 400;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%; 
+margin-left:5em;}
+
+    .process p span
+     {
+      display: table-cell;
+      vertical-align: middle;
+       }
+  .process h3
+   {
+    margin-bottom: 0;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-right: 135px;
+     }
+  .process.active p
+   {
+    border: 2px solid #f0f0f0;
+     }
+    
+
+    .process.active p span
+     {
+      color: #FFC300; }
+
+
+      .process:after 
+      {
+    position: absolute;
+    top: 35%;
+    right: -37%;
+    content: '';
+    width: 100%;
+    height: 1px;
+    background: whitesmoke;
+    z-index: -1; 
+}
+  .process:last-child:after 
+  {
+    display: none; 
+}
+
+.btn4
+{
+	background-color: orange;
+	border-radius: 23px;
+	height: 39px;
+	color: white;
+	margin-right: 320px;
+	margin-top: 15px;
+	width: 150px;
+}
+span{
+	color: rgba(119, 119, 119, 1);
+}
+u
+{
+	color: silver;
+
+
+.j
+{
+	margin-left: 299px;
+}
+.k
+{
+	margin-left: 255px;
+
+}
+
+.m
+{
+	margin-left: 311px;
+}
+.n
+{
+	margin-left: 279px;
+}

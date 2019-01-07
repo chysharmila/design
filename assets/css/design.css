@@ -1,0 +1,144 @@
+.nav{
+	margin-left:700px;
+  padding: 10px;
+}
+
+
+
+.he{
+	color: black;
+}
+.center
+{
+	text-align: center;
+}
+.image
+{
+	height: 302px;
+	width: 500px;
+}
+.image1
+{
+	width: 289px;
+}
+.image2
+{
+	width: 784px;
+  margin-left: 200px;
+}
+.image3
+{
+
+	width:742px;
+	margin-left: 250px;
+}
+.container .btn {
+    position: absolute;
+    top: 7%;
+    left: -15%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: orange;
+    color: white;
+    font-size: 10px;
+    padding: 4px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 2px;
+  }
+
+
+  .color {
+  	color: orange;
+
+  }  
+
+  .image4
+  {
+  	width: 1500px;
+
+height: 400px;
+  }
+
+  .btn1 {
+
+  position: absolute;
+    top: 7%;
+    left: -15%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: red;
+    color: white;
+    font-size: 10px;
+    padding: 4px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 2px;
+  }
+
+  .image5
+  {
+  	width: 732px;
+  margin-left: 230px;
+  }
+
+  .image6
+  {
+  	margin-left: 500px;
+  }
+  .color1
+  {
+  	background-color: #e9e4e4;
+  }
+
+  .navbar1
+  {
+  	
+  	margin-left: 500px;
+  	border-radius: 10px;
+  }
+  .navbar2
+  {
+  	background-color: orange;
+  	padding: 28px;
+    
+  }
+
+  .hi
+  {
+  	color: #6b6161;
+  }
+ .btn3
+ {
+ 	margin-right: 10px;
+ }
+
+ .images
+ {
+height: 260px;
+width: 409px;
+
+ }
+
+ .images1
+ {
+ 	height: 259px;
+ 	width: 410px;
+ }
+ .images2
+ {
+ 	height: 257px;
+ 	width: 410px;
+ 	
+ }
+
+ .ht
+ {
+ 	padding-bottom: 80px;
+ }
+ .desc{
+ 	padding: 1.5em 1em;
+ 	margin-bottom: 20px;
+ 	padding-left: 80px;
+ 	position: relative;
+ }
